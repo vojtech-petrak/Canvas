@@ -1,6 +1,7 @@
 # Canvas
 
-This is a general infinite canvas that can be used as a starting point for making tools and itself started as a tool draft.
+This is a general infinite canvas supporting drag and drop style controls.
+It can be used as a starting point for making tools and itself started as a tool draft.
 It is not a library, so any changes need to be done directly in the code.
 
 ## Features & use
